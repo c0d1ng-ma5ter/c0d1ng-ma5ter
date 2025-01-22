@@ -9,7 +9,7 @@ I'm found under the same name on FCC, its forums, and some other stuff (but with
 ```
   ______
 /  |  |  \
-| \____/ |   ASCII art is cool :D
+| \____/ |   ASCII art is cool ·ᴗ·
  \ ____ /
 
 ```
