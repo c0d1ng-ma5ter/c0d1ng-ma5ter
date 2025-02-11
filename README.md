@@ -4,7 +4,7 @@ I just felt like letting the default heading live
 
 I'm your average camper on FCC, contributor to its codebase, and Roblox Studio developer. Also a math and music guy.
 
-I'm found under the same name on FCC, its forums, and some other stuff (but with the hyphen replaced by an underscore)
+I'm found under the same name on FCC, its forums, and some other stuff (but with the hyphen replaced by an underscore).
 
 ```
   ______
