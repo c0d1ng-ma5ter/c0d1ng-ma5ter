@@ -13,12 +13,12 @@ I'm found under the same name on FCC, its forums, and some other stuff (but with
  \ ____ /
 
 
-    .  .      
- . ,_,    () .
-  /·w·\__ .  .
- . |     \ .  
-___|_|_|\|___ 
-
+    .  .                   ___
+ . ,_,    () .           /     \
+  /·w·\__ .  .          |       |
+ . |     \ .             \^   ^/
+___|_|_|\|___           // \ / \\
+_____________          / /  |  \ \
 
 ```
 
